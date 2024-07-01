@@ -6,10 +6,10 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+<h3 align="left"><font size="+2" face="Verdana">Summary:</font></h3>
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
+- I am currently in my final year of Computer Science and Engineering.
+- Actively seeking job opportunities in software development.
 
 #### Programming Language Stack
 <p align="left">
@@ -18,9 +18,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/09f763c45f2e4ba99a745524c19e330fd7d2b3e6/topics/html/html.png" alt="html" title="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/09f763c45f2e4ba99a745524c19e330fd7d2b3e6/topics/css/css.png" alt="css" title="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/09f763c45f2e4ba99a745524c19e330fd7d2b3e6/topics/javascript/javascript.png" alt="javascript" title="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" title="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" title="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
@@ -29,12 +29,16 @@
 #### OS Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" title="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_windows/microsoft_windows-icon.svg" alt="windows" title="windows" width="40" height="40"/>
 </p>
 
 #### Database Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/06fd751c82e5a23d07bcb68ec01a29d215bb24d4/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40" height="40"/>
+</p>
+
+#### Backend Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="40" height="40"/>
 </p>
 
 #### Mobile Development Stack
