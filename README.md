@@ -1,12 +1,9 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Harsh Joshi</font></h1>
-<h3 align="center"><font face="Arial">Final year Computer Science and Engineering student.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/harsh-joshi-322761128/" target="_blank" rel="noreferrer">Harsh</a> is a final year Computer Science and Engineering student.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-<!-- GitHub Stats Card -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshj200230&show_icons=true&locale=en" alt="harshj200230" /></p>
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Summary:</font></h3>
@@ -61,6 +58,9 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harshj200230&label=Profile%20views&color=0e75b6&style=flat" alt="harshj200230" /> 
 </p>
+
+<!-- GitHub Stats Card -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshj200230&show_icons=true&locale=en" alt="harshj200230" /></p>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
