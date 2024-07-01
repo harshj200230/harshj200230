@@ -54,6 +54,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="android-studio" title="android-studio" width="40" height="40"/>
 </p>
 
+<!-- Profile Views Badge -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=harshj200230&label=Profile%20views&color=0e75b6&style=flat" alt="harshj200230" /> 
+</p>
+
+<!-- GitHub Stats Card -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshj200230&show_icons=true&locale=en" alt="harshj200230" /></p>
+
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
