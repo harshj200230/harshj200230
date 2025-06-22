@@ -8,7 +8,7 @@
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Summary:</font></h3>
 
-- I am currently in my final year of Computer Science and Engineering.
+- I am a recent graduate of Computer Science and Engineering.
 - Actively seeking job opportunities in software development.
 
 #### Programming Language Stack
