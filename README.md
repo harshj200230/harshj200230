@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Harsh Joshi</font></h1>
-<h3 align="center"><font face="Arial"> I am a final year Computer Science and Engineering student.</font></h3>
+<h3 align="center"><font face="Arial">Computer Science and Engineering recent graduate.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
